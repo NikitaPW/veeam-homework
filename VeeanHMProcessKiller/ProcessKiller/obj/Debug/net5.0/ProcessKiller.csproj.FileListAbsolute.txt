@@ -1,0 +1,16 @@
+C:\Users\mi-pr\source\repos\ProcessKiller\ProcessKiller\bin\Debug\net5.0\ProcessKiller.exe
+C:\Users\mi-pr\source\repos\ProcessKiller\ProcessKiller\bin\Debug\net5.0\ProcessKiller.deps.json
+C:\Users\mi-pr\source\repos\ProcessKiller\ProcessKiller\bin\Debug\net5.0\ProcessKiller.runtimeconfig.json
+C:\Users\mi-pr\source\repos\ProcessKiller\ProcessKiller\bin\Debug\net5.0\ProcessKiller.runtimeconfig.dev.json
+C:\Users\mi-pr\source\repos\ProcessKiller\ProcessKiller\bin\Debug\net5.0\ProcessKiller.dll
+C:\Users\mi-pr\source\repos\ProcessKiller\ProcessKiller\bin\Debug\net5.0\ref\ProcessKiller.dll
+C:\Users\mi-pr\source\repos\ProcessKiller\ProcessKiller\bin\Debug\net5.0\ProcessKiller.pdb
+C:\Users\mi-pr\source\repos\ProcessKiller\ProcessKiller\obj\Debug\net5.0\ProcessKiller.csproj.AssemblyReference.cache
+C:\Users\mi-pr\source\repos\ProcessKiller\ProcessKiller\obj\Debug\net5.0\ProcessKiller.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mi-pr\source\repos\ProcessKiller\ProcessKiller\obj\Debug\net5.0\ProcessKiller.AssemblyInfoInputs.cache
+C:\Users\mi-pr\source\repos\ProcessKiller\ProcessKiller\obj\Debug\net5.0\ProcessKiller.AssemblyInfo.cs
+C:\Users\mi-pr\source\repos\ProcessKiller\ProcessKiller\obj\Debug\net5.0\ProcessKiller.csproj.CoreCompileInputs.cache
+C:\Users\mi-pr\source\repos\ProcessKiller\ProcessKiller\obj\Debug\net5.0\ProcessKiller.dll
+C:\Users\mi-pr\source\repos\ProcessKiller\ProcessKiller\obj\Debug\net5.0\ref\ProcessKiller.dll
+C:\Users\mi-pr\source\repos\ProcessKiller\ProcessKiller\obj\Debug\net5.0\ProcessKiller.pdb
+C:\Users\mi-pr\source\repos\ProcessKiller\ProcessKiller\obj\Debug\net5.0\ProcessKiller.genruntimeconfig.cache
